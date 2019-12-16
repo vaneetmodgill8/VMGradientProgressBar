@@ -37,6 +37,7 @@ s.source_files = 'VMGradientProgressBar/Classes/**/*'
 
 
 # 10
+
 s.swift_version = "4.2"
 
 end
