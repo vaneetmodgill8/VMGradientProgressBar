@@ -669,7 +669,7 @@
 			};
 			name = Release;
 		};
-		F2EC123A5E842131BFE6A387939688F2 /* Debug */ = {
+		CD1C98DE970F9BF48DB69C959010D71C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = CC7C4BFBCD8A31C272685E304014B052 /* VMGradientProgressBar.xcconfig */;
 			buildSettings = {
@@ -694,14 +694,14 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
-		FC358F84FEB3EC3CF9EDD6DCBB87C7EB /* Release */ = {
+		FF1C751578940AC549BA54968ECC5585 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = CC7C4BFBCD8A31C272685E304014B052 /* VMGradientProgressBar.xcconfig */;
 			buildSettings = {
@@ -726,7 +726,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -758,8 +758,8 @@
 		A7D08A1B2985F86D9387157A1E80A41A /* Build configuration list for PBXNativeTarget "VMGradientProgressBar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F2EC123A5E842131BFE6A387939688F2 /* Debug */,
-				FC358F84FEB3EC3CF9EDD6DCBB87C7EB /* Release */,
+				CD1C98DE970F9BF48DB69C959010D71C /* Debug */,
+				FF1C751578940AC549BA54968ECC5585 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

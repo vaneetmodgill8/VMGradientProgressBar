@@ -1,5 +1,5 @@
 PODS:
-  - VMGradientProgressBar (0.1.0)
+  - VMGradientProgressBar (1.0.2)
 
 DEPENDENCIES:
   - VMGradientProgressBar (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  VMGradientProgressBar: 4fdb829c9443cc4216f9753c91c8773de2d06e88
+  VMGradientProgressBar: 0f3ddd4212be18d784c77a22cb591ac44f247104
 
 PODFILE CHECKSUM: 6fbc216bf57ed010eae859bd63c16efb3128c7cb
 
