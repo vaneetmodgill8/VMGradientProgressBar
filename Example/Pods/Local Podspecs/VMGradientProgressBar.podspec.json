@@ -1,0 +1,22 @@
+{
+  "name": "VMGradientProgressBar",
+  "version": "0.1.0",
+  "summary": "A short description of VMGradientProgressBar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vaneetmodgill@gmail.com/VMGradientProgressBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vaneetmodgill@gmail.com": "vaneet.modgill@sdnaglobal.com"
+  },
+  "source": {
+    "git": "https://github.com/vaneetmodgill@gmail.com/VMGradientProgressBar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "VMGradientProgressBar/Classes/**/*"
+}

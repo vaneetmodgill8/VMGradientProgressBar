@@ -1,0 +1,6 @@
+framework module VMGradientProgressBar {
+  umbrella header "VMGradientProgressBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

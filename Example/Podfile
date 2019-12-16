@@ -1,0 +1,12 @@
+use_frameworks!
+platform :ios, '10.0'
+
+target 'VMGradientProgressBar_Example' do
+  pod 'VMGradientProgressBar', :path => '../'
+
+  target 'VMGradientProgressBar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
