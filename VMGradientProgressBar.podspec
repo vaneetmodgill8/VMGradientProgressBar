@@ -16,7 +16,7 @@ s.summary = "VMGradientProgressBar lets you create a simple or gradient bar."
 s.requires_arc = true
 
 # 2
-s.version = "0.1.0"
+s.version = "1.0.2"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
