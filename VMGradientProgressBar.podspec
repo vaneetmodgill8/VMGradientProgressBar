@@ -28,8 +28,7 @@ s.author = { "Vaneet Modgill" => "vaneetmodgill@gmail.com" }
 s.homepage = "https://github.com/vaneetmodgill8/VMGradientProgressBar"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/vaneetmodgill8/VMGradientProgressBar.git",
-             :tag => "#{s.version}" }
+s.source       = { :git => "https://github.com/vaneetmodgill8/VMGradientProgressBar.git", :branch => "master", :tag => s.version.to_s }
 
 # 8
 s.source_files = 'VMGradientProgressBar/Classes/**/*'
